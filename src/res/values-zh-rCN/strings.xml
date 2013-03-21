@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="title">Singular sReader Sample</string>
+    <string name="app_name">SReader Sample</string>
+    <string name="swipe">Swipe</string>
+    <string name="reswipe">Reswipe</string>
+    <string name="detect">Detect</string>
+    <string name="stop">Stop</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="nodevice">No Device</string>
+    <string name="timeoutack">Time Out</string>
+    <string name="second">秒</string>
+</resources>
